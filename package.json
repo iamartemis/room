@@ -34,8 +34,9 @@
     "webpack-dev-server": "^4.7.1"
   },
   "dependencies": {
-    "@townland-project/eventer": "*",
     "@townland-project/cache": "*",
+    "@townland-project/eventer": "*",
+    "@townland-project/interfaces": "github:townland-project/interfaces",
     "phaser": "^3.55.2"
   },
   "browserslist": [
